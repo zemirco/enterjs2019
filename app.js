@@ -5,7 +5,7 @@ const i18n = {
 }
 
 const MyComponent = () => {
-  return i18n.transl('foo')
+  return i18n.transl('hello')
 }
 
 MyComponent()
